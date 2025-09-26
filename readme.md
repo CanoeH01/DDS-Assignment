@@ -1,10 +1,8 @@
 # 🍴 Recipe Management Web App  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-
 ## 📖 About this Project  
 A PHP & MySQL web application for managing recipes, built as part of a college project.  
 It features role-based permissions, ingredient management, and recipe creation.  
-
 > [!WARNING] 
 > This project uses a starter MVC framework and template code provided by my lecturer, Gerry Guinane.  
 > All application-specific functionality (ingredients database, recipe system, and permissions) was implemented by me.  
