@@ -5,9 +5,9 @@
 A PHP & MySQL web application for managing recipes, built as part of a college project.  
 It features role-based permissions, ingredient management, and recipe creation.  
 
-⚠️ **Note on Source Code**  
-This project uses a starter MVC framework and template code provided by my lecturer, Gerry Guinane.  
-All application-specific functionality (ingredients database, recipe system, and permissions) was implemented by me.  
+> [!WARNING] 
+> This project uses a starter MVC framework and template code provided by my lecturer, Gerry Guinane.  
+> All application-specific functionality (ingredients database, recipe system, and permissions) was implemented by me.  
 
 ## 🛠️ Tech Stack  
 - **Language:** PHP  
